@@ -27,7 +27,7 @@ Cada paso tuvo el propósito de mejorar las inconsistencias encontradas en la ba
 
 ---
 
-# 📊 Resumen de Problemas de Calidad y Decisiones Tomadas
+# Resumen de Problemas de Calidad y Decisiones Tomadas
 
 | Problema detectado | Variables afectadas | Evidencia en datos crudos | Acción aplicada | Justificación |
 | :--- | :--- | :--- | :--- | :--- |
