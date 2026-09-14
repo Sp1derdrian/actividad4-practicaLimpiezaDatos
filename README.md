@@ -83,3 +83,8 @@ Cada etapa del pipeline abordo las inconsistencias estructurales detectadas en l
 ├── cafe_sales_cleaned_final.csv    <- Dataset depurado, tipado y validado
 ├── a4_practicaDeLimpiezaDeDatos.py <- Código de python empleado para la limpieza de datos
 └── README.md                       <- Documentacion tecnica del procedimiento
+
+---
+
+> **Aviso de Asistencia de IA:**  
+> La estructuración técnica, diseño y redacción de este documento fueron optimizados con la asistencia de **Google Gemini**, garantizando un formato profesional y consistente. El análisis exploratorio, la lógica de negocio y la validación de los datos fueron definidos y supervisados por el autor.
